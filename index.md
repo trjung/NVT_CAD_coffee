@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to NVT CAD Coffee Club
 
 You can use the [editor on GitHub](https://github.com/trjung/NVT_CAD_coffee/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
